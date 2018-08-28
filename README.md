@@ -1,7 +1,7 @@
 # SLM Playground
 
 
-Some Literature regarding SLM or the calculation of the phase pattern (kinofrom):
+Some Literature regarding SLM or the calculation of the phase pattern (sometimes called kinofrom):
 - https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-22-1-633&id=276514 (An adaptive approach for uniform scanning in multifocal multiphoton microscopy with a spatial light modulator) here is an example of an somewaht elaborate optical setup
 - https://urresearch.rochester.edu/institutionalPublicationPublicView.action?institutionalItemId=21200 (PHD Thesis: Aberration correction in digital holography - by Abbie E. Tippie - 2012) here is some theory, general knowlege and more
 - https://www.osapublishing.org/oe/abstract.cfm?uri=oe-24-6-6249 (Comparison of beam generation techniques using a phase only spatial light modulator) here they sketch six different alogrithems to calculate the phase pattern (and refs for further reading) and compare them in theory and experiment using a certain metric for picture accuracy and the patterns 'efficiency' in therm of summed intensity
