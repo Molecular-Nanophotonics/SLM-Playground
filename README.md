@@ -1,6 +1,5 @@
 # SLM Playground
 
-
 Some Literature regarding SLM or the calculation of the phase pattern (sometimes called kinofrom):
 
 
