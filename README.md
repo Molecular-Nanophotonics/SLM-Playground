@@ -10,9 +10,7 @@ David Grier:
 Other:
 <<<<<<< HEAD
 - PhD Thesis "Application of Spatial Light Modulators for Optical Trapping and Image Processing": https://www.uibk.ac.at/exphys/photonik/downloads/thesis_jesacher.pdf
-=======
 - "Spatial Light Modulator Microscopy" http://cshprotocols.cshlp.org/content/2013/12/pdb.top079517
->>>>>>> 13e3313a0cd6c447db13a50346479ad256aac29f
 - MIT presentation on Fourier Optics: https://ocw.mit.edu/courses/mechanical-engineering/2-71-optics-spring-2009/video-lectures/lecture-19-the-4f-system-binary-amplitude-pupil-masks/MIT2_71S09_lec19.pdf
 - "An adaptive approach for uniform scanning in multifocal multiphoton microscopy with a spatial light modulator" here is an example of an somewaht elaborate optical setup; https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-22-1-633&id=276514
 - PhD Thesis: "Aberration correction in digital holography" - by Abbie E. Tippie - 2012 - here is some theory, general knowlege and more; https://urresearch.rochester.edu/institutionalPublicationPublicView.action?institutionalItemId=21200
