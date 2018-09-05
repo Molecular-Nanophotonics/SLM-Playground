@@ -8,7 +8,6 @@ David Grier:
 - "Holographic optical trapping" - 2006 - 3D trapping of coloidal spheres and more http://physics.nyu.edu/grierlab/aoreview3c/
 
 Other:
-<<<<<<< HEAD
 - PhD Thesis "Application of Spatial Light Modulators for Optical Trapping and Image Processing": https://www.uibk.ac.at/exphys/photonik/downloads/thesis_jesacher.pdf
 - "Spatial Light Modulator Microscopy" http://cshprotocols.cshlp.org/content/2013/12/pdb.top079517
 - MIT presentation on Fourier Optics: https://ocw.mit.edu/courses/mechanical-engineering/2-71-optics-spring-2009/video-lectures/lecture-19-the-4f-system-binary-amplitude-pupil-masks/MIT2_71S09_lec19.pdf
