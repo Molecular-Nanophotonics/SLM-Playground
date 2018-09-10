@@ -6,6 +6,8 @@ Some Literature regarding SLM or the calculation of the phase pattern (sometimes
 David Grier:
 - "Dynamic Holographic Optical Tweezers" - 2002 - from David Grier, here is some math, the setup and optical tweezing with the SLM (spots and vortices) http://physics.nyu.edu/grierlab/dynamic4c/
 - "Holographic optical trapping" - 2006 - 3D trapping of coloidal spheres and more http://physics.nyu.edu/grierlab/aoreview3c/
+- Talk: "Photokinetic effect" https://www.youtube.com/watch?v=55XQAXeKpoc
+
 
 Other:
 - PhD Thesis "Application of Spatial Light Modulators for Optical Trapping and Image Processing": https://www.uibk.ac.at/exphys/photonik/downloads/thesis_jesacher.pdf
