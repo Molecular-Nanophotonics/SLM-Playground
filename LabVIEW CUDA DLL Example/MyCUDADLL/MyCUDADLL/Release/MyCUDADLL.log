@@ -1,0 +1,8 @@
+﻿     Creating library C:\Users\mona\Promotion\LabVIEW Files\CUDA DLL Template\MyCUDADLL\Release\MyCUDADLL.lib and object C:\Users\mona\Promotion\LabVIEW Files\CUDA DLL Template\MyCUDADLL\Release\MyCUDADLL.exp
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  MyCUDADLL.vcxproj -> C:\Users\mona\Promotion\LabVIEW Files\CUDA DLL Template\MyCUDADLL\Release\MyCUDADLL.dll
+  MyCUDADLL.vcxproj -> C:\Users\mona\Promotion\LabVIEW Files\CUDA DLL Template\MyCUDADLL\Release\MyCUDADLL.pdb (Full PDB)
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart*.dll" "C:\Users\mona\Promotion\LabVIEW Files\CUDA DLL Template\MyCUDADLL\Release\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart32_80.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart64_80.dll
+          2 Datei(en) kopiert.
